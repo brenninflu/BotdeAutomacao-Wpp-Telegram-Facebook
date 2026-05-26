@@ -1,0 +1,12 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^dotnet build$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^dotnet restore$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

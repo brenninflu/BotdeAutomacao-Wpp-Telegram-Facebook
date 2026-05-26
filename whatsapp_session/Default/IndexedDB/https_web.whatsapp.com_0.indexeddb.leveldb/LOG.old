@@ -1,0 +1,15 @@
+2026/05/22-16:38:04.648 5e4c Reusing MANIFEST C:\Users\Brenno Xavier\Documents\OfertaBot\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/22-16:38:04.649 5e4c Recovering log #1528
+2026/05/22-16:38:04.678 5e4c Reusing old log C:\Users\Brenno Xavier\Documents\OfertaBot\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001528.log 
+2026/05/22-16:38:07.345 5868 Level-0 table #1534: started
+2026/05/22-16:38:07.367 5868 Level-0 table #1534: 280080 bytes OK
+2026/05/22-16:38:07.370 5868 Delete type=0 #1528
+2026/05/22-16:38:07.371 5e4c Manual compaction at level-0 from ' \x08\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x09\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/22-16:38:07.499 6db0 Compacting 1@1 + 2@2 files
+2026/05/22-16:38:07.656 6db0 Generated table #1535@1: 49489 keys, 2272804 bytes
+2026/05/22-16:38:07.706 6db0 Generated table #1536@1: 10551 keys, 524485 bytes
+2026/05/22-16:38:07.706 6db0 Compacted 1@1 + 2@2 files => 2797289 bytes
+2026/05/22-16:38:07.708 6db0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/22-16:38:07.709 6db0 Delete type=2 #1530
+2026/05/22-16:38:07.709 6db0 Delete type=2 #1531
+2026/05/22-16:38:07.709 6db0 Delete type=2 #1534
